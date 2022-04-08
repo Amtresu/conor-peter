@@ -1,3 +1,4 @@
+
 #navbar {
     position: fixed;
     min-width: 290px;
@@ -32,6 +33,7 @@
     cursor: pointer;
 }
 
+
 body {
     min-width: 290px;
     color: grey;
@@ -64,7 +66,7 @@ section article {
     margin: 15px;
     font-size: 0.96em;
 }
-
+@media(max-width: 15000px){
 code {
     display:block;
     text-align: left;
@@ -77,4 +79,4 @@ code {
     border-radius: 3px;
     line-height: 2;
 }
-
+}
