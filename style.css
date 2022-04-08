@@ -1,4 +1,4 @@
-#nav-bar {
+#navbar {
     position: fixed;
     min-width: 290px;
     top: 0px;
@@ -9,7 +9,7 @@
     border-color: rgb(0, 22, 22, 0.4);
 }
 
-#nav-bar ul {
+#navbar ul {
     height: 88px;
     padding: 0px;
     overflow-y:auto;
@@ -17,14 +17,14 @@
 }
 
 #nav-bar li{
-    color:blueviolet;
+    color:rgb(0, 0, 0);
     border-top: 1px solid;
     list-style: none;
     position:relative;
     width: 100%;
 } 
 
-#nav-bar a{
+#navbar a{
     display: block;
     padding:10px 30px;
     color:black;
@@ -77,3 +77,4 @@ code {
     border-radius: 3px;
     line-height: 2;
 }
+
