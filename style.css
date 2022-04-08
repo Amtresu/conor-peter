@@ -1,0 +1,36 @@
+#nav-bar {
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100px;
+    border-right: solid;
+    border-color: rgb(0, 22, 22, 0.4);
+}
+
+#body {
+    min-width: 290px;
+    color: grey;
+    background-color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+#header {
+    color:black;
+    margin:10px;
+    text-align:center;
+    font-size: 1.8em;
+    font-weight: thin;
+}
+
+#main-doc header {
+    text-align:left;
+    margin: 0px;
+}
+
+#section article {
+    color:blue;
+    margin: 15px;
+    font-size: 0.96em;
+}
